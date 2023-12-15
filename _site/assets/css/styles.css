@@ -1,5 +1,50 @@
-.current {
-  color: green;
+body {
+  font-family: "Inconsolata", monospace;
+  background-color: #3A1634;
+  margin: 0;
+}
+
+#main {
+  min-height: 100vh;
+  width: 1024px;
+  margin: 0px auto 0px auto;
+}
+
+#header, #footer, #content {
+  background-color: white;
+  color: black;
+  padding: 10px 15px;
+}
+
+#header {
+  margin-bottom: 25px;
+  margin-top: 35px;
+  height: 75px;
+}
+
+#banner {
+  margin: 0;
+}
+
+#footer {
+  margin-bottom: 0px;
+  margin-top: 25px;
+  float: bottom;
+  height: 400px;
+}
+
+#page-title {
+  margin-top: 0;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+
+a.current {
+  color: dimgray;
 }
 
 /*# sourceMappingURL=styles.css.map */
