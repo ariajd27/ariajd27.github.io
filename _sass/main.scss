@@ -13,7 +13,19 @@ body {
 #header, #footer, #content {
 	background-color: white;
 	color: black;
+}
+
+#header {
 	padding: 10px 15px;
+}
+
+#content {
+	padding: 15px 25px;
+}
+
+#footer {
+	padding: 30px 50px;
+	text-align: center;
 }
 
 #header {
@@ -31,10 +43,6 @@ body {
 	margin-top: 25px;
 	float: bottom;
 	height: 400px;
-}
-
-#page-title {
-	margin-top: 0;
 }
 
 a {

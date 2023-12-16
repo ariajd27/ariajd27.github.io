@@ -1,6 +1,8 @@
-- name: Home
-  link: /
-- name: About
-  link: /about.html
 - name: Recent
   link: /recent.html
+- name: Reviews
+  link: /reviews.html
+- name: Essays
+  link: /essays.html
+- name: About
+  link: /about.html
