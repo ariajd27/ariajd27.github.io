@@ -4,45 +4,62 @@ body {
 	margin: 0;
 }
 
-#main {
+.main {
 	min-height: 100vh;
-	width: 1024px;
+	min-width: 512px;
+	max-width: 1024px;
 	margin: 0px auto 0px auto;
 }
 
-#header, #footer, #content {
+.header, .footer, .content {
 	background-color: white;
 	color: black;
 }
 
-#header {
+.header {
 	padding: 10px 15px;
 }
 
-#content {
-	padding: 15px 25px;
+.content {
+	padding: 5px 25px 15px 25px;
+	font-size: smaller;
 }
 
-#footer {
+.footer {
 	padding: 30px 50px;
 	text-align: center;
 }
 
-#header {
+.header {
 	margin-bottom: 25px;
 	margin-top: 35px;
 	height: 75px;
 }
 
-#banner {
+.banner {
 	margin: 0;
 }
 
-#footer {
+.footer {
 	margin-bottom: 0px;
 	margin-top: 25px;
 	float: bottom;
-	height: 400px;
+	min-height: 400px;
+}
+
+.content h1 {
+	font-size: 1.75em;
+	margin: 0.5em auto;
+}
+
+.content h2 {
+	font-size: 1em;
+	margin: 0.5em auto;
+}
+
+.content p {
+	font-size: 1em;
+	margin: 0.5em auto;
 }
 
 a {
