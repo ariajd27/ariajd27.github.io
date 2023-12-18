@@ -1,4 +1,5 @@
-url: "http://extentoftheworld.net"
+url: http://extentoftheworld.net
+baseurl: ''
 plugins:
   - jekyll-feed
   - jekyll-sitemap

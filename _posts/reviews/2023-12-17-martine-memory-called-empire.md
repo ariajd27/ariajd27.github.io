@@ -1,7 +1,7 @@
 ---
 layout: post
 category: reviews
-title: "Review: <i>A Memory Called Empire</i> - Arkady Martine"
+title: "Review: <i>A Memory Called Empire</i> by Arkady Martine"
 ---
 
 Arkady Martine's breakout novel is a modern exploration of the cultural significance of empire. Full of political intrigue, enticing flavor, compelling characters, and well-developed relationships, this book is excellent despite minor issues mostly related to language. Highly recommended.
