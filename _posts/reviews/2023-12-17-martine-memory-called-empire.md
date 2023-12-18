@@ -34,7 +34,9 @@ The other thing is that I don't really know how I'm supposed to pronounce Teixca
 - \<l\>, according to the given IPA, apparently represents a voiced velar fricative (in most environments). You know, as in the words "bell" and "ball". The only problem is that that's not a voiced velar fricative, it's a velarized alveolar lateral approximant, the IPA transcription of which shares a symbol (kinda) but is absolutely not the same.
 - The IPA given for \<r\> conflicts with the American English examples because the rhotic in American English is definitely not an alveolar flap.
 
-To be clear, I'm not criticizing the book for being unrealistic. Rather, I genuinely wish Martine had managed to describe Teixcalaanli phonetics in a more consistent way so that I were more confident in how words like "Teixclaanli" are actually supposed to be pronounced. Is this a nitpicky complaint? Maybe, but I also do genuinely care.
+To be clear, I'm not criticizing the book for being unrealistic. I just wish Martine had managed to describe Teixcalaanli phonetics in a more consistent way so that I were more confident in how words like "Teixclaanli" are actually supposed to be pronounced! Is this a nitpicky complaint? Yeah... but...
+
+Maybe the fact that these are the big issues I can come up with means that the book is actually really good?
 
 ## Summary
 

@@ -47,18 +47,23 @@ body {
 	min-height: 400px;
 }
 
-.content h1 {
+.content h1, .footer h1 {
 	font-size: 1.75em;
 	margin: 0.5em auto;
 }
 
-.content h2 {
+.content h2, .footer h1 {
 	font-size: 1em;
 	margin: 0.5em auto;
 }
 
 .content p {
 	font-size: 1em;
+	margin: 0.5em auto;
+}
+
+.footer p {
+	font-size: 0.8em;
 	margin: 0.5em auto;
 }
 

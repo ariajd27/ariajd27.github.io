@@ -1,3 +1,4 @@
+url: "http://extentoftheworld.net"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
