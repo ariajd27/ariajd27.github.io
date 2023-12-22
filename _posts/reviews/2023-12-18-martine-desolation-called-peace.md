@@ -1,7 +1,7 @@
 ---
 layout: post
 category: reviews
-title: "Review: <i>A Desolation Called Peace</i> by Arkady Martine"
+title: "Review: <i>A Desolation Called Peace</i> by Arkady Martine (2021)"
 ---
 
 The sequel to *A Memory Called Empire* sees Martine struggle to center a well-worn science fiction trope without significant new ideas. While *A Desolation Called Peace* is a touching romance and keeps some of the same political and character-driven charm of the first novel, the discovery story is lacking. Conditionally recommended.
