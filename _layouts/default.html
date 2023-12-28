@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Extent of the World - {{ page.title }}</title>
+		<title>Extent of the World - {{ page.title | strip_html }}</title>
 		<link rel="stylesheet" href="/assets/css/styles.css">
 		<link rel="shortcut icon" href="/favicon.ico">
 		{% feed_meta %}
