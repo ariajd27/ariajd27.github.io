@@ -16,7 +16,7 @@ Insofar as there is a plot at all, it's Van worrying about what Ellador will thi
 
 Also, this book came out in 1915, so it's set in 1915. The men aren't exactly happy about the situation they have to show Ellador around.
 
-# Summary
+## Summary
 
 I could have written a whole in-depth review about this, but I decided it didn't really make much sense. It's just *Herland*, but more of it. If you liked *Herland*, or you were interested in it, or you're studying it, you should read *With Her in Ourland*, too, because it's just a continuation of the same narrative. That's how Gilman seems to have intended it.
 
